@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 ### `yarn`
 
-Runs module installation
+Runs installation all dependencies for a project.
 
 ### `yarn start`
 
